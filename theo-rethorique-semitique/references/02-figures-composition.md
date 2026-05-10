@@ -37,7 +37,9 @@ Les éléments se succèdent dans **l'ordre inverse**, comme dans un miroir.
   - (A) quiconque s'élève (B) sera abaissé / (B') qui s'abaisse (A') sera élevé.
 
 ### 3. La composition concentrique
-C'est une composition spéculaire construite autour d'un **centre unique** (qui ne se répète pas). C'est une figure majeure de la rhétorique biblique. Le centre ('x') contient souvent l'élément clé (une question, une parabole, un renversement).
+C'est une composition spéculaire construite autour d'un **centre unique** (qui ne se répète pas). C'est une figure majeure de la rhétorique biblique. Le centre ('x') obéit souvent à des lois spécifiques qui mettent en valeur son importance théologique ou herméneutique :
+- **Loi de la question au centre :** La seule (ou principale) question d'un psaume ou d'une péricope est très souvent placée au centre géométrique exact de la composition concentrique.
+- **Loi de l'énigme au centre (caractère énigmatique du centre) :** Le centre est souvent le passage le plus difficile, dense, métaphorique ou textuellement obscur. Ce caractère énigmatique force le lecteur à s'arrêter et à interpréter.
 - **Schémas fréquents :** A B / x / B' A' (ou A B C / x / C' B' A').
 
 ### 4. La composition elliptique
@@ -47,6 +49,9 @@ C'est une composition construite autour de **deux foyers** (comme une ellipse g�
 ### 5. L'Acrostiche alphabétique
 Figure macro-structurelle forte (particulièrement dans la poésie, les Psaumes ou les Lamentations). L'ordre implacable de l'alphabet (ex: 22 lettres hébraïques) s'impose comme une forme structurante qui organise les morceaux ou les segments.
 - **Règle d'analyse :** Les "irrégularités" (inversion de lettres, relâchement de la contrainte, réduction, abandon de la forme) ne sont jamais de simples erreurs textuelles : elles signalent un tournant narratif ou théologique majeur (ex: la fin du chaos, le passage de la plainte à une prière libre de contraintes).
+
+### 6. L'Architecture iconographique (Forme visuelle sacrée)
+La macro-structure rhétorique peut imiter ou calquer la forme géométrique d'un objet sacré ou d'un symbole fort (ex. le Psaume 67 "Psaume-Menora"). La répartition des segments, les foyers et les répétitions (ex. les 7 branches) épousent la forme de l'objet, liant structurellement et théologiquement le texte à sa fonction (ici, diffuser la lumière aux nations).
 
 ## C. Les symétries partielles
 

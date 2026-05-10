@@ -43,3 +43,4 @@ Ces unités sont formées d'**une ou plusieurs** unités du niveau précédent (
 - **TERMES MÉDIANS** : Mots identiques à la fin d'une unité et au début de la suivante *(remplace "Mot-crochet" ou "Mot-agrafe")*.
 - **TERMES CENTRAUX** : Termes ou syntagmes identiques ou semblables qui marquent les centres de *deux* unités textuelles symétriques.
 - **TRINGLE** : Élément récurrent (souvent un titre, une appellation ou un motif) qui traverse et relie plusieurs passages distincts au sein d'une même architecture, fonctionnant comme une tige transversale (ex: "Fils de..." répété à travers trois passages successifs).
+- **PHÉNOMÈNE DE CLÔTURE** : Courte rupture volontaire de la symétrie à l'extrême fin d'une séquence (ex: un locuteur qui reprend très brièvement la parole à la fin d'un strict dialogue alterné) pour marquer l'achèvement définitif de l'unité.

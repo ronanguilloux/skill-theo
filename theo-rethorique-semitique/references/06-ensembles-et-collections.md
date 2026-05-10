@@ -1,35 +1,38 @@
-# L'Ensemble (La Collection) : L'Analyse Inter-Livres
+# L'Ensemble (La Collection) : L'Analyse Macro-Structurelle Inter-Livres
 
-Dans la méthode de Roland Meynet (notamment développée dans son analyse des *Cinq Rouleaux* ou du *Psautier*), l'analyse rhétorique ne s'arrête pas aux frontières d'un livre unique. Plusieurs livres bibliques peuvent être organisés pour former une "macro-architecture", que l'on nomme l'**Ensemble** ou la **Collection**.
+Dans la méthode de Roland Meynet (notamment développée dans son analyse des *Cinq Rouleaux* ou du *Psautier* entier), l'analyse rhétorique ne s'arrête pas aux frontières d'un psaume ou d'un livre unique. Plusieurs sections ou livres bibliques sont organisés pour former une "macro-architecture" (ex: les 5 livres du Psautier), que l'on nomme l'**Ensemble** ou la **Collection**.
 
-C'est ce que la recherche moderne appelle la *critique compilatoire* (compilational criticism), qui vient fusionner avec la rhétorique sémitique.
+C'est ce que la recherche moderne appelle la *critique compilatoire* (compilational criticism) croisée avec la rhétorique sémitique.
 
-## Critères de l'Analyse Inter-Livres
+## 1. La Loi d'Évolution Théologique (Le Dynamisme de la Symétrie)
 
-Pour prouver que des livres indépendants forment une composition rhétorique cohérente (souvent spéculaire ou concentrique), il faut relever les critères suivants :
+Une macro-structure concentrique (ex: `Livre 1` - `Livre 2` - `Livre 3` - `Livre 4` - `Livre 5`) n'est **jamais une architecture statique**. Les éléments du second versant (Livres 4 et 5) ne sont pas de simples répétitions du premier versant (Livres 1 et 2), mais l'aboutissement d'une métamorphose théologique passée au crible du centre. 
 
-### 1. Les Mots-Crochets (Symétries partielles)
+La macro-structure force le lecteur à tracer des trajectoires :
+- **De la Supplication à la Louange :** Le Livre 1 est dominé par l'angoisse ("Pourquoi ?", "Jusqu'à quand ?"). Le Livre 5 éclate en action de grâce (La Grande Doxologie).
+- **De l'Innocence au Pardon :** Le psalmiste commence par accuser "les méchants", mais la traversée du Psautier lui fait découvrir son propre péché (nécessité de la Miséricorde).
+- **De l'Élection à l'Universalisme :** Le peuple de Dieu (Israël) commence seul face aux nations ennemies, et termine en conviant toutes les nations de la terre à louer le même Dieu (accomplissement de la promesse d'Abraham).
+- **De la Royauté humaine à la Royauté divine :** Les rois terrestres (David, Salomon) dominent les premiers livres, mais finissent par s'effacer devant le règne exclusif de Dieu ou du Peuple ("fils de Sion") dans les derniers.
+
+## 2. La Fonction du Centre Macro-Structurel (Le Point de Rupture)
+
+Dans une collection de livres organisée de manière concentrique (`A B / x / B' A'`), le livre ou la section centrale joue le rôle de point de bascule.
+Il n'est pas seulement le pivot formel, il est souvent le **lieu de la Crise ou de la Faillite**.
+- Ex : Dans le Psautier, le Livre 3 (le centre) s'achève sur le Psaume 89, qui constate la ruine tragique de l'alliance davidique, la destruction du Temple et l'Exil.
+- Cette mort ("le moment de la chrysalide") est le point de non-retour rhétorique qui oblige la théologie à se réinventer sur le second versant (nouvelle alliance, retour à Moïse en Ps 90, intériorisation de la loi). 
+
+## 3. Critères Formels de l'Analyse Inter-Livres
+
+Pour prouver l'architecture d'une macro-collection, il faut relever les critères suivants :
+
+### A. Les Mots-Crochets et Trame Lexicale
 L'agrafage des livres se fait par des termes placés aux coutures :
-- **Termes médians :** Mots qui marquent la fin d'un livre et le tout début du livre suivant (ex: le mot "nom" à la fin de Ruth et au début du Cantique).
-- **Termes extrêmes (encadrement) :** Mots identiques qui encadrent tout un groupe de livres.
-- **Termes initiaux / Titres :** Incipits partagés ou thématiquement liés.
+- **Termes médians :** Mots qui marquent la fin d'un livre et le tout début du suivant.
+- **Termes extrêmes (encadrement) :** Mots identiques qui encadrent tout un groupe de livres (ex: "Béni soit le Seigneur").
+- **Termes initiaux / Titres :** Incipits partagés ou attributions d'auteurs (ex: le regroupement des Psaumes "de David" vs "des fils de Coré").
 
-### 2. La complémentarité des Genres Littéraires
-Les livres mis en parallèle (ex: `A` et `A'`) ou en contraste partagent souvent une symétrie de genre.
-- Ex: Ruth et Esther sont deux *récits* encadrant la collection. Cantique et Lamentations sont deux *poèmes* encadrant le centre.
-
-### 3. Les Données Chiffrées (Longueur)
+### B. L'Équilibre des Masses (Données Chiffrées)
 Dans les grands ensembles, l'équilibre n'est pas seulement sémantique mais matériel.
-- Observez l'équilibre des volumes (en nombre de mots, de signes ou de versets) entre les versants d'une composition. (Ex: Le Cantique et Ruth ont quasiment la même taille : ~8960 signes).
+- Observez l'équilibre des volumes (en nombre de mots, de signes ou de versets) entre les versants d'une composition. (Ex: Dans le Psautier de Meynet, la somme des signes des Sections 1 et 2 est presque équivalente à la somme des Sections 4 et 5, rétablissant une incroyable symétrie pondérale autour du centre).
 
-### 4. La Continuation Thématique (Le fil rouge inter-livres)
-Les livres en miroir explorent souvent les mêmes thèmes de manière complémentaire ou inversée (ex: Ruth = l'étrangère mariée à un juif en Israël ; Esther = la juive mariée à un étranger hors d'Israël).
-
-## La fonction du Livre Central (Qohélet dans les Cinq Rouleaux)
-
-Dans une collection de livres organisée de manière concentrique (ex: `Livre A` / `Livre B` / `Livre C` / `Livre B'` / `Livre A'`), le livre central (`C`) joue le rôle de clé de lecture ou de point focal, tout comme le segment central le fait dans un passage.
-
-- Il peut avoir un genre littéraire totalement différent des autres (ex: Sagesse au milieu de récits et de poèmes).
-- Il traite des thèmes universels (la Mort, la Joie, l'Homme face à Dieu) qui transcendent et éclairent les aventures spécifiques des livres périphériques.
-
-*Application:* Si un utilisateur demande d'analyser non pas un chapitre, mais le lien entre plusieurs livres bibliques ou une collection (comme les Cinq Rouleaux Mégillot, le Pentateuque, les livres de Sagesse), utilisez ces critères pour chercher les grands chiasmes canoniques.
+*Application:* Si un utilisateur demande d'analyser non pas un psaume isolé, mais le lien entre plusieurs psaumes (une "séquence") ou une collection (les 5 livres du Psautier, les Cinq Rouleaux), mobilisez expressément la loi du point de rupture central et l'évolution théologique d'un versant à l'autre.

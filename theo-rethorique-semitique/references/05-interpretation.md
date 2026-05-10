@@ -46,6 +46,21 @@ Un basculement des pronoms (passer de la 3e personne narrative à un "Je" de dé
 Lorsque le contenu narratif décrit le chaos absolu (guerre, exil, destruction), l'utilisation d'une forme extrêmement rigide (comme l'acrostiche alphabétique ou un strict concentrisme) n'est pas un jeu esthétique : c'est un acte théologique de résistance de la Parole face au désordre.
 **Action :** Observez comment la rigueur implacable de la composition compense et finalement résout le chaos apparent du récit.
 
+## 9. Le "Double-entendre" sémitique (vs l'allégorie)
+*Principe : Le sens spirituel est consubstantiel au sens littéral.*
+Contrairement à l'allégorie grecque classique qui cherche à "remplacer" une image charnelle par une idée spirituelle, la rhétorique sémitique affirme que le sens spirituel fait partie intégrante du sens littéral. Parler de l'amour charnel entre un homme et une femme (ex: Le Cantique), c'est *déjà* parler de l'amour entre Dieu et son peuple. L'un ne détruit pas l'autre.
+**Action :** Ne dévaluez jamais le sens littéral pour le remplacer par une idée abstraite. Maintenez les deux niveaux de lecture (ex: époux/épouse ET Dieu/Israël) en tension simultanée.
+
+## 10. La Typologie et le Renversement (L'Antitype)
+*Principe : L'accomplissement figuratif s'accompagne d'un excès ou d'une inversion.*
+La lecture typologique (interne à la Bible) ne consiste pas à trouver de simples répétitions d'histoires anciennes (la création, l'exode). La reprise d'une "figure" (type) s'accompagne toujours d'une modification décisive qui en donne le sens (l'antitype).
+**Action :** Lorsque vous repérez un écho à un texte fondateur, cherchez le **renversement**. (Ex: Là où Adam et Ève sont frappés de mutisme, les amants du Cantique dialoguent sans cesse ; là où le sang d'Abel crie vengeance, le sang du Christ pardonne). L'accomplissement réside dans cet écart.
+
+## 11. Le Présent Rhétorique (L'Aujourd'hui)
+*Principe : La récitation du texte abolit le temps historique.*
+Dans la poésie biblique (comme le Psautier), la remémoration des événements fondateurs (Création, Exode, Alliance) n'a pas pour but la simple mémoire historique. La forme rhétorique transforme l'histoire en événement actuel (le *"maintenant"* ou *"à l'instant"*).
+**Action :** Ne lisez pas un texte comme une simple chronique. Observez comment la structure fait basculer le récit d'un "Autrefois" (à la 3e personne) vers un appel pressant au présent ("Aujourd'hui si vous entendez sa voix"). Le texte biblique fonctionne comme un mode d'emploi spirituel pour actualiser l'Alliance dans l'instant de la lecture.
+
 ## Méthode de travail pour l'Étape 5 (L'Interprétation finale)
 À la toute fin de votre réponse :
 1. Produisez un court paragraphe d'interprétation pour expliquer le sens du texte.

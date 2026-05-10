@@ -13,7 +13,9 @@ La rhétorique biblique se caractérise par deux éléments fondamentaux : la **
 
 Pour analyser un texte biblique, vous devez suivre ce processus par étapes strictes. Ne sautez pas d'étapes.
 
-**Règle préalable de vocabulaire :** Consultez `references/00-lexique-meynet.md`. Vous devez impérativement utiliser les termes techniques de Roland Meynet (ex: "termes extrêmes" au lieu "d'inclusion", "termes médians" au lieu de "mots-crochets", bien faire la différence entre spéculaire et chiasme, etc.) dans l'ensemble de votre réponse.
+**Règles préalables :**
+1. **Vocabulaire technique :** Consultez `references/00-lexique-meynet.md`. Vous devez impérativement utiliser les termes techniques de Roland Meynet (ex: "termes extrêmes" au lieu "d'inclusion", "termes médians" au lieu de "mots-crochets", bien faire la différence entre spéculaire et chiasme, etc.) dans l'ensemble de votre réponse.
+2. **Rigueur sémantique et théologique :** Consultez `references/07-lexique-theologique.md`. Lors de votre analyse, employez les traductions et nuances sémitiques exactes qui fondent l'herméneutique de cette école (ex. *Dumiyyâ* = repos et non juste silence ; *rûa'* = cri inarticulé de guerre/joie) et repérez la présence des thèmes majeurs (le Pauvre, le Temple, la Lumière des nations).
 
 ### Étape 1 : Le Découpage (Partir du bas)
 
@@ -58,3 +60,11 @@ La forme n'est pas une fin en soi : elle donne accès au sens. C'est l'aboutisse
 1. Lisez le document `references/05-interpretation.md`.
 2. Produisez un paragraphe d'interprétation finale du texte.
 3. Appliquez consciemment les règles herméneutiques de Meynet (Chercher la différence, Chercher la ressemblance, Partir du centre, Suivre le fil rouge, Croiser les fils). Nommez-les explicitement pour prouver que votre analyse spirituelle ou théologique découle organiquement de l'architecture formelle dégagée aux étapes précédentes.
+
+### Étape 6 (Conditionnelle) : L'Analyse Macro-Structurelle (Collections)
+
+*Si l'utilisateur vous demande d'analyser le lien entre plusieurs psaumes, plusieurs sections, ou un livre entier (ex: les 5 Livres du Psautier, les 5 Rouleaux) :*
+
+1. Lisez le document `references/06-ensembles-et-collections.md`.
+2. Déployez l'analyse macro-structurelle : cherchez les mots-crochets aux coutures des livres, analysez l'équilibre des masses (données chiffrées).
+3. Identifiez le **Point de Rupture** au centre de la collection (la crise) et appliquez la **Loi d'Évolution Théologique** pour expliquer comment le second versant résout ou sublime le premier.
