@@ -1,0 +1,109 @@
+{
+  "skill_name": "theo-rethorique-semitique",
+  "evals": [
+    {
+      "id": 1,
+      "name": "decoupage-luc-5",
+      "prompt": "Peux-tu appliquer l'étape 1 de ton analyse rhétorique (découpage en membres et segments) sur ce texte court : 'Or il advint, tandis que la foule le pressait et écoutait la Parole de Dieu, que lui se tenait près du lac de Génésareth et qu'il vit deux barques se tenant près du lac. Les pécheurs, étant descendus d'elles, lavaient les filets.' (Luc 5,1-2)",
+      "expected_output": "Le modèle doit fournir un découpage justifié montrant l'identification des membres et leur regroupement en segments (probablement des segments bimembres et un trimembre), en soulignant les éléments binaires comme 'se tenait près du lac' / 'barques se tenant près du lac'.",
+      "assertions": [
+        {
+          "name": "Utilisation du vocabulaire technique",
+          "description": "Le texte doit utiliser les termes techniques 'membres' et 'segments' (ou bimembre/trimembre)."
+        },
+        {
+          "name": "Découpage binaire",
+          "description": "Le découpage doit mettre en évidence la binarité du texte."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "figures-chiasme-luc-14",
+      "prompt": "Fais l'étape 1 et l'étape 2 (figures de composition) sur cette phrase de Jésus : 'Car quiconque s'élève sera abaissé, et qui s'abaisse sera élevé' (Luc 14,11). Donne-moi le schéma de l'architecture.",
+      "expected_output": "Le modèle doit repérer un segment bimembre avec 2 membres chacun. Il doit identifier l'opposition lexicale élever/abaisser et abaisser/élever. Il doit en déduire que c'est une composition spéculaire (chiasme) de type A B / B' A'.",
+      "assertions": [
+        {
+          "name": "Identification du chiasme",
+          "description": "Le texte doit explicitement qualifier la figure de 'chiasme' ou de 'composition spéculaire'."
+        },
+        {
+          "name": "Schéma structurel",
+          "description": "Le texte doit fournir un schéma littéral clair, tel que A B / B' A' (ou similaire)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "reecriture-visuelle-mt-7",
+      "prompt": "Peux-tu appliquer les 3 étapes (découpage, architecture et réécriture visuelle) sur Mt 7,6 : 'Ne donnez pas les choses saintes aux chiens, et ne jetez pas vos perles devant les pourceaux, de peur qu'ils ne les foulent à leurs pieds, et que, se retournant, ils ne vous déchirent.' ?",
+      "expected_output": "Le modèle doit identifier 4 membres. Il doit repérer la structure spéculaire (chiens/déchirent et pourceaux/foulent) et générer une réécriture visuelle stricte avec 1 membre par ligne, des lignes vides entre segments si applicable (ou un seul segment de 4 membres), des lettres en préfixe et les mots identiques/opposés formatés en gras/italique.",
+      "assertions": [
+        {
+          "name": "Règle du membre unique par ligne",
+          "description": "Dans la réécriture Markdown, chaque membre doit occuper exactement une ligne."
+        },
+        {
+          "name": "Utilisation du gras et de l'italique",
+          "description": "Le modèle doit utiliser le gras pour l'identité et l'italique pour l'opposition dans sa réécriture visuelle."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "centre-contextes-marc-10",
+      "prompt": "Applique les 4 étapes de l'analyse rhétorique sur ce passage de Marc 10,7-9 : 'C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux deviendront une seule chair. Ainsi ils ne sont plus deux, mais une seule chair. Que l'homme donc ne sépare pas ce que Dieu a joint.' Concentre-toi bien sur l'étape 4 pour identifier le centre.",
+      "expected_output": "Le modèle doit identifier une composition concentrique. Les bords (A/A') parlent de séparation/jonction humaine et divine, tandis que le centre (x ou B/B') tourne autour de 'une seule chair'. Le modèle doit surtout identifier, grâce à l'étape 4, que le centre contient une *citation biblique explicite* (Genèse 2,24) et en analyser la portée.",
+      "assertions": [
+        {
+          "name": "Identification d'une citation biblique au centre",
+          "description": "Le modèle doit analyser le centre (étape 4) et relever qu'il s'agit d'une citation explicite de l'Ancien Testament (Genèse)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "interpretation-luc-18",
+      "prompt": "Je voudrais que tu fasses une analyse rhétorique complète (les 5 étapes de la méthode Meynet) de la parabole du Pharisien et du Publicain (Luc 18,10-14) : 'Deux hommes montèrent au Temple pour prier, l'un était pharisien et l'autre publicain. Le pharisien, debout, priait ainsi en lui-même : Ô Dieu, je te rends grâces de ce que je ne suis pas comme les autres hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain. Je jeûne deux fois la semaine, je donne la dîme de tous mes revenus. Le publicain, se tenant à distance, ne voulait même pas lever les yeux au ciel, mais il se frappait la poitrine, en disant : Ô Dieu, sois apaisé envers moi, pécheur. Je vous le dis, celui-ci descendit dans sa maison justifié, plutôt que l'autre. Car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.'",
+      "expected_output": "Le modèle doit appliquer l'intégralité de la méthode : découpage, architecture (gros chiasme antithétique avec inclusion monter/descendre, élever/abaisser), réécriture visuelle, analyse des contextes (prière au Temple, justification) et surtout une interprétation finale (Étape 5) nommant explicitement au moins deux règles herméneutiques (ex: 'Partir du centre', 'Chercher la ressemblance' : les deux montent prier mais repartent justifiés ou non).",
+      "assertions": [
+        {
+          "name": "Présence de l'étape 5 d'interprétation",
+          "description": "L'étape 5 (Interprétation) doit être formellement présente et développée."
+        },
+        {
+          "name": "Citations des règles herméneutiques",
+          "description": "Le texte doit nommer explicitement au moins deux des règles herméneutiques de Meynet (ex: 'Partir du centre', 'Chercher la différence')."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "methodologie-partir-haut-epure",
+      "prompt": "Applique les 3 premières étapes de l'analyse rhétorique sur le Psaume 134 : '(1) Cantique des montées. Voici, bénissez l'Éternel, vous tous, serviteurs de l'Éternel, Qui vous tenez dans la maison de l'Éternel pendant les nuits ! (2) Élevez vos mains vers le sanctuaire, Et bénissez l'Éternel ! (3) Que l'Éternel te bénisse de Sion, Lui qui a fait les cieux et la terre !' Je veux te voir appliquer la double méthode : 'partir du bas' puis 'partir du haut' pour trouver la structure. Fais une réécriture visuelle en appliquant bien la loi de l'épure visuelle.",
+      "expected_output": "Le modèle doit montrer comment il procède de la base vers le haut, puis évoquer les récurrences globales (Partir du haut). La réécriture visuelle ne doit pas être saturée de gras pour les détails mineurs, mais ne mettre en évidence que ce qui structure le niveau illustré.",
+      "assertions": [
+        {
+          "name": "Application de la méthode dialectique (bas/haut)",
+          "description": "Le texte doit explicitement mentionner la démarche de 'partir du bas' (pour les segments) puis de 'partir du haut' (pour l'architecture globale)."
+        },
+        {
+          "name": "Mention de l'épure visuelle",
+          "description": "Le modèle doit démontrer ou justifier l'application de la 'loi de l'épure visuelle' (ou d'abstraction) dans sa réécriture."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "hermeneutique-anti-idolatrique-creation",
+      "prompt": "Fais une analyse rhétorique (étapes 1 à 5) des deux premiers versets de Genèse 1 : '(1) Au commencement, Dieu créa les cieux et la terre. (2) La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux.' Pour l'interprétation finale (étape 5), applique la règle de chercher la ressemblance et la différence, et explique quelle pourrait être la fonction anti-idolâtrique de cette binarité stricte (cieux/terre, ténèbres/eaux) selon la méthode.",
+      "expected_output": "Le modèle doit appliquer toutes les étapes. Dans l'interprétation, il doit mobiliser le concept spécifique de la fonction anti-idolâtrique ajouté via la lecture de Roland Meynet.",
+      "assertions": [
+        {
+          "name": "Mobilisation du concept anti-idolâtrique",
+          "description": "L'interprétation doit obligatoirement discuter de la 'fonction anti-idolâtrique de la binarité', en expliquant que le sens ou la présence divine ne se laisse pas enfermer dans un seul pôle."
+        }
+      ]
+    }
+  ]
+}

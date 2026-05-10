@@ -15,15 +15,18 @@ Quand vous invoquez un skill, l'IA arrête d'être généraliste. Elle est oblig
 ### Disponibles
 
 *   **[`robert-alter-analyse`](./robert-alter-analyse/)** : Analyse de l'Ancien Testament avec la grille littéraire de Robert Alter. Au lieu de faire de la théologie, l'agent va chercher les mots-guides (*Leitwort*), démonter les scènes-types et pointer l'ironie dramatique.
+*   **[`theo-rethorique-semitique`](./theo-rethorique-semitique/)** : Analyse de l'architecture formelle des textes bibliques (et sémitiques) selon la méthode de Roland Meynet. L'agent effectue un découpage rigoureux (membres, segments, morceaux) et en révèle les structures symétriques (chiasmes, compositions concentriques, binarité) pour en déduire le sens théologique (fonction anti-idolâtrique, etc.). **Comment l'invoquer :** Ce skill est conçu pour une invocation explicite. Appelez-le en mentionnant des termes comme *Roland Meynet*, *analyse rhétorique biblique*, *rhétorique sémitique*, ou *figures de composition*.
 
 ### En projet
 
-Nous avons besoin d'autres grilles de lecture pour séparer les approches :
-*   **Exégèse historico-critique** (sources, critique des formes)
-*   **Herméneutique patristique** (Pères de l'Église, lecture allégorique)
-*   **Herméneutique comparée** (l'évolution de l'interprétation)
-*   **Théologie systématique** (thomisme, réformée...)
-*   **[Herméneutique talmudique](https://en.wikipedia.org/wiki/Talmudical_hermeneutics)**
+Nous avons besoin d'autres grilles de lecture pour séparer les approches. Basé sur la cartographie stratégique de l'exégèse :
+
+*   **`theo-exegese-historico-critique`** : La méthode fondatrice (diachronique). Le skill désassemblera le texte pour remonter à ses sources. Il appliquera la critique textuelle (variantes manuscrites), la critique littéraire (genres), la *Formgeschichte* (contexte sociologique d'origine ou *Sitz im Leben*) et la *Redaktionsgeschichte* (agenda théologique du rédacteur final).
+*   **`theo-semiotique-greimas`** : L'analyse purement synchronique et structurale (CADIR, Louis Panier). Le skill enfermera le modèle dans la clôture du texte. Il ignorera l'histoire pour mapper les relations logiques via le schéma actantiel (Sujet/Objet, Destinateur/Destinataire) et le carré sémiotique des oppositions fondamentales.
+*   **`theo-analyse-narrative`** : L'étude de la stratégie de communication du récit (Marguerat, Bourquin). Le skill modélisera les états mentaux des acteurs intratextuels (auteur implicite, lecteur implicite) et calculera la vitesse du récit pour faire émerger l'ironie dramatique et les tensions narratives.
+*   **`theo-critique-canonique`** : L'approche théologique globale (Childs). Le skill évaluera la péricope non pas de manière isolée, mais en l'insérant de force dans la forme finale et globale du canon biblique, exigeant une résonance intertextuelle avec l'ensemble des Écritures.
+*   **`theo-analyse-socio-scientifique`** : Le décodage anthropologique (Elliott, Malina). Le skill brisera nos biais culturels modernes pour relire les événements à travers les grilles des sociétés méditerranéennes antiques : le système binaire honneur/honte, le patronage et les codes de pureté rituelle.
+*   **`theo-histoire-reception`** (Wirkungsgeschichte) : Le sens comme sédimentation historique. Le skill ne cherchera pas l'intention originelle mais tracera comment l'interprétation a évolué au fil du temps (Pères de l'Église, liturgie, histoire de l'art).
 
 ## Installation
 
