@@ -43,8 +43,9 @@ C'est une composition spéculaire construite autour d'un **centre unique** (qui 
 - **Schémas fréquents :** A B / x / B' A' (ou A B C / x / C' B' A').
 
 ### 4. La composition elliptique
-C'est une composition construite autour de **deux foyers** (comme une ellipse géométrique), plutôt qu'un centre unique. Cette figure a été formalisée récemment dans l'histoire de la discipline (à l'occasion d'études sur l'Évangile de Matthieu).
-- **Schémas fréquents :** A X B X A' (où les deux 'X' sont les foyers).
+C'est une composition construite autour de **deux foyers** (comme une ellipse géométrique), plutôt qu'un centre unique. Cette figure a été formalisée plus récemment dans l'histoire de la discipline.
+- **Schémas fréquents :** A / x1 / B / x2 / A' (où les deux 'x' sont les foyers encadrant le plateau central B).
+- **Fonction théologique des foyers :** Les deux foyers fonctionnent souvent comme des ancrages dans le réel ou le présent. Ils créent une tension dynamique (par ex., le Foyer 1 exprime le désir de Dieu vers l'homme, le Foyer 2 le désir de l'homme vers Dieu). Ils viennent encadrer et rendre concret le "plateau central" (B) qui est souvent de nature utopique, céleste ou eschatologique.
 
 ### 5. L'Acrostiche alphabétique
 Figure macro-structurelle forte (particulièrement dans la poésie, les Psaumes ou les Lamentations). L'ordre implacable de l'alphabet (ex: 22 lettres hébraïques) s'impose comme une forme structurante qui organise les morceaux ou les segments.

@@ -56,10 +56,25 @@ Contrairement à l'allégorie grecque classique qui cherche à "remplacer" une i
 La lecture typologique (interne à la Bible) ne consiste pas à trouver de simples répétitions d'histoires anciennes (la création, l'exode). La reprise d'une "figure" (type) s'accompagne toujours d'une modification décisive qui en donne le sens (l'antitype).
 **Action :** Lorsque vous repérez un écho à un texte fondateur, cherchez le **renversement**. (Ex: Là où Adam et Ève sont frappés de mutisme, les amants du Cantique dialoguent sans cesse ; là où le sang d'Abel crie vengeance, le sang du Christ pardonne). L'accomplissement réside dans cet écart.
 
-## 11. Le Présent Rhétorique (L'Aujourd'hui)
+## 11. Le Présent Rhétorique (L'Aujourd'hui et la Tension des Désirs)
 *Principe : La récitation du texte abolit le temps historique.*
-Dans la poésie biblique (comme le Psautier), la remémoration des événements fondateurs (Création, Exode, Alliance) n'a pas pour but la simple mémoire historique. La forme rhétorique transforme l'histoire en événement actuel (le *"maintenant"* ou *"à l'instant"*).
-**Action :** Ne lisez pas un texte comme une simple chronique. Observez comment la structure fait basculer le récit d'un "Autrefois" (à la 3e personne) vers un appel pressant au présent ("Aujourd'hui si vous entendez sa voix"). Le texte biblique fonctionne comme un mode d'emploi spirituel pour actualiser l'Alliance dans l'instant de la lecture.
+Dans la poésie biblique (comme le Psautier), la remémoration des événements fondateurs (Création, Exode, Alliance) n'a pas pour but la simple mémoire historique, et les visions eschatologiques ne sont pas de simples utopies futures. La forme rhétorique transforme l'histoire et la fin des temps en un événement actuel (le *"maintenant"*, *"à l'instant"* (ex: Ps 81), *"aujourd'hui"* (ex: Ps 95)).
+**Action :** Ne lisez pas un texte comme une simple chronique. Observez comment la structure (souvent via les foyers d'une ellipse ou au centre exact d'une collection) fait basculer le récit vers le Présent. Cet "Aujourd'hui / À l'instant" est le lieu de tension où se croisent le désir de Dieu vers l'homme ("Aujourd'hui si vous écoutiez ma voix !") et le désir de l'homme vers Dieu ("Quand viendras-tu vers moi ?"). La réponse de Dieu au "Jusqu'à quand ?" angoissé de l'homme est toujours "À l'instant", si l'homme écoute. Le texte biblique actualise l'Alliance dans l'instant de la lecture.
+
+## 12. La Cartographie des Refrains (Leitmotivs en Contrepoint)
+*Principe : L'évolution du texte se lit dans la disparition ou l'intensification de ses refrains.*
+Dans les livres sapientiaux (comme Qohélet), l'auteur utilise des refrains opposés (ex: "Tout est buée" vs "Mange, bois et réjouis-toi"). La clé herméneutique ne réside pas seulement dans le sens de ces phrases, mais dans leur **distribution**.
+**Action :** Comptez et localisez les occurrences des refrains. Si un refrain négatif sature le premier versant puis disparaît après le centre, tandis que le refrain positif s'intensifie jusqu'à la fin, vous avez trouvé la résolution théologique du livre. Le centre marque le sommet de la crise, le point de bascule où la mort (la buée) cesse d'être préférée à la vie (la joie).
+
+## 13. La Tension des Extrêmes (Contradiction Irrésolue)
+*Principe : La pensée sémitique ne cherche pas la synthèse philosophique cartésienne (le "juste milieu").*
+Face à deux réalités inconciliables (la fatalité de la mort et l'invitation divine à la joie), le texte biblique les maintient en tension extrême tout au long de son architecture. 
+**Action :** Ne cherchez pas à lisser les contradictions du texte. L'interprétation doit mettre en lumière la manière dont l'architecture formelle articule et fait cohabiter ces deux pôles opposés sans les annuler (ex: la joie l'emporte finalement sur la mort, non par la logique, mais par l'ancrage dans le don de Dieu).
+
+## 14. L'Éthique de la Structure (Tsimtsoum)
+*Principe : L'architecture reflète l'action de Dieu.*
+Dans des livres comme *Ruth* ou *Esther*, l'apparente absence de Dieu dans le récit ou les miracles spectaculaires n'est pas un oubli. C'est l'application narrative du *Tsimtsoum* (le retrait de Dieu pour laisser exister la liberté humaine). 
+**Action :** Observez comment la structure place l'action humaine (le choix, la fidélité) au centre de l'intrigue, tandis que l'action divine (qui ouvre et ferme le récit) encadre discrètement le tout. Interprétez ce "silence" ou cette "discrétion" structurelle non comme une absence de Dieu, mais comme la matrice nécessaire à la révélation de la bonté humaine (*Hesed*).
 
 ## Méthode de travail pour l'Étape 5 (L'Interprétation finale)
 À la toute fin de votre réponse :
