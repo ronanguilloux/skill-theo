@@ -2,7 +2,10 @@
 
 L'Étape 5 est l'aboutissement de l'analyse rhétorique. Elle consiste à déduire le sens théologique ou narratif du texte à partir de son architecture formelle. À l'inverse de l'exégèse historico-critique (qui a tendance à atomiser les textes et à traiter leurs auteurs comme de simples "compilateurs" d'unités disparates), l'analyse rhétorique aborde les évangélistes et les prophètes comme de véritables **auteurs**, maîtres de compositions littéraires extrêmement étudiées.
 
-En rhétorique biblique (selon Roland Meynet), l'interprétation n'est pas subjective : elle est contrainte par la structure.
+**L'ascèse du sens :**
+Travailler sur un texte en s'attendant à y trouver ce que l'on sait déjà est la pire des méthodes. L'analyse formelle (qui exige technicité et rigueur) garantit l'objectivité. Elle implique une véritable *ascèse du sens* : il faut mettre entre parenthèses toute idée préconçue sur la signification du texte, pour ne s'appuyer strictement que sur ce que l'architecture (le schéma) dicte. En procédant ainsi, un sens inattendu et beaucoup plus riche émergera.
+
+En rhétorique biblique (selon Roland Meynet), l'interprétation n'est donc pas subjective : elle est contrainte par la structure.
 
 Pour interpréter l'architecture du texte, vous devez appliquer ces **5 règles herméneutiques** :
 
@@ -37,7 +40,10 @@ Il arrive souvent qu'un texte soit parcouru par plusieurs fils rouges (ex: un fi
 Si la Bible présente deux récits de création, deux décalogues, ou si un texte est composé de segments strictement bimembres, ce n'est pas de la répétition inutile. C'est une prévention contre l'idolâtrie du texte. Dieu ne se laisse pas "enfermer" dans une seule formulation. De même, les quatre évangiles nous sont transmis pour que le lecteur ne soit pas tenté de mettre la main sur une image unique de Jésus.
 **Action :** Cherchez le sens non pas dans le terme A ni dans le terme A', mais dans l'espace qui se crée *entre* les deux formulations (à l'image de la Voix divine qui sort de l'espace vide entre les deux chérubins du propitiatoire).
 
-## 7. Le Changement de voix (Synecdoque et pronoms)
+## 8. L'inadéquation du terme "antithèse" (Le "surpassement" de la Loi)
+*Principe : Éviter les étiquettes de la théologie classique (comme les "antithèses" du Sermon sur la montagne).*
+Même lorsque le texte utilise des formules qui semblent marquer une rupture (ex: "Vous avez appris qu'il a été dit... Et moi je vous dis..."), il ne s'agit jamais d'abolir ou de contredire l'Ancienne Loi. En rhétorique sémitique, Jésus s'oppose à la *réduction juridique* (ou interprétation limitative) pour dévoiler la *volonté originelle* du Législateur. 
+**Action :** Ne parlez jamais d'"antithèses" mais de **"surpassement"**. Le second terme n'est pas l'abolition du premier, il le porte à son paroxysme : il attaque la racine du péché (le cœur) plutôt que son seul acte, et exige d'aller plus loin pour atteindre la véritable image de Dieu. L'interdit ("Tu ne tueras point") n'est qu'une asymptote, la limite basse qui ouvre le champ infini du faire ("Se réconcilier").
 *Principe : L'évolution grammaticale accompagne l'architecture.*
 Un basculement des pronoms (passer de la 3e personne narrative à un "Je" de déréliction, puis à un "Nous" d'assemblée) se produit souvent aux points d'articulation rhétoriques (les centres ou limites de séquences) et signale une progression du salut. 
 **Action :** Suivez les pronoms personnels et les sujets d'action pour identifier le tournant spirituel. Si un "Je" ou un individu singulier apparaît soudainement au milieu d'un groupe ("Vous" ou "Nous"), ou si un pronom inédit surgit au centre d'une composition (ex: le "Moi, l'homme" au cœur de la 3e Lamentation), il s'agit souvent d'une **synecdoque structurelle** : ce personnage (le prophète, le Christ, le croyant typique) récapitule et assume l'expérience de toute la communauté.
@@ -94,6 +100,16 @@ L'interprétation théologique jaillit souvent du sens matériel le plus terrien
 ## 17. La Subordination du Micro au Macro
 *Principe : Le système englobant génère un sens invisible au niveau isolé.*
 **Action :** N'hésitez pas à corriger votre analyse d'un segment si la macro-structure (l'ensemble du livre ou du recueil) révèle une symétrie qui vous avait échappé. (Ex: Meynet a dû corriger son découpage du Livre 1 du Psautier après avoir découvert son reflet elliptique exact dans le Livre 4). De même, les interpolations ou ajouts (souvent critiqués par l'exégèse historico-critique) doivent être lus comme des éléments intégrés organiquement à la structure symétrique finale par les scribes, et non comme des anomalies.
+
+## 18. L'inversion des rôles (Implication du lecteur)
+*Principe : La parabole ou le texte piège le lecteur justicier.*
+Le texte évangélique (comme Luc 15 avec les fils perdus) invite souvent le lecteur, consciemment ou non, à s'identifier à un personnage (souvent le pécheur pardonné ou la brebis retrouvée) pour mieux le confronter à la réalité de son comportement réel (celui du frère aîné ou du Pharisien moralisateur). L'analyse rhétorique, en revalorisant toutes les parties symétriques du texte de manière égale (la drachme pèse autant que la brebis, l'aîné autant que le cadet), met en lumière ce "piège" pédagogique.
+**Action :** Face à une parabole double ou un récit à personnages multiples mis en parallèle, n'excluez aucun acteur. Observez comment le texte invite d'abord le lecteur à juger, avant de l'obliger à se reconnaître lui-même dans le personnage qu'il vient de condamner. L'inversion des rôles (le "juste" qui reste dehors devient le vrai pécheur) est un ressort rhétorique majeur de conversion.
+
+## 19. La Filiation au Centre (Dimension christologique)
+*Principe : La christologie biblique s'exprime dans l'architecture.*
+Lorsque l'on étudie les Evangiles (et particulièrement le Prologue de Jean ou les récits de miracle), le problème posé aux extrémités (ex: l'inadéquation entre Dieu et le monde, ou "Qui peut pardonner les péchés ?") trouve très souvent sa résolution au centre géométrique du texte à travers la thématique de la *Filiation divine*. 
+**Action :** Face à une antinomie apparente entre deux péricopes extrêmes, cherchez au centre la mention du Fils de l'Homme, du Fils Unique, ou la filiation accordée aux croyants (ex: Jean 1,12-13). C'est la filiation qui tient ensemble les deux termes de l'antinomie.
 
 ## Méthode de travail pour l'Étape 5 (L'Interprétation finale)
 À la toute fin de votre réponse :

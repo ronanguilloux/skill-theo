@@ -15,8 +15,9 @@ Selon Roland Meynet (Chapitre 7 du Traité), le centre abrite très fréquemment
 4. **L'exception grammaticale au centre :** Un pronom ou une adresse inattendue peut surgir spécifiquement au centre. (Ex: Le texte parle à la troisième personne, mais soudain le centre est un "Tu" adressé à Dieu, ou un "Moi, l'homme" qui représente le prophète et le peuple).
 5. **Le croisement au centre :** Le centre lui-même (l'élément `x`) n'est pas forcément statique : il est très souvent constitué d'un petit chiasme interne (un croisement spéculaire) qui entrelace les thématiques des deux versants pour amorcer le renversement du récit.
 6. **L'anomalie narrative :** Le moment de rupture, le changement de ton ou l'apparente digression qui fait dire au lecteur moderne "ceci n'a rien à faire là".
-7. **Le redoublement rhétorique (anomalie factuelle) :** Une anomalie dans le monde de la critique historique (ex: Matthieu qui met en scène *deux* aveugles là où Marc n'en a qu'un). Ce n'est pas une contradiction sur la vérité historique matérielle, mais une nécessité dictée par l'architecture du texte (l'auteur double un personnage pour créer une symétrie interne avec d'autres paires, respectant ainsi la loi de la binarité).
-8. **L'énigme du centre :** Le centre est par définition énigmatique. L'identité d'un personnage qui y surgit, ou le sens d'un acte mentionné au centre, nécessite souvent de lire l'ensemble de la section ou du livre entier pour être résolu. Le centre force la réflexion et relance l'interprétation du lecteur.
+7. **Le centre physique = le centre sémantique et théologique :** Comme le démontre Meynet (par ex. dans l'analyse de l'Arche de l'Alliance ou du Notre Père), le point central physique de la structure est toujours le lieu théologique fondamental, le "foyer" du texte.
+8. **Le redoublement rhétorique (anomalie factuelle) :** Une anomalie dans le monde de la critique historique (ex: Matthieu qui met en scène *deux* aveugles là où Marc n'en a qu'un). Ce n'est pas une contradiction sur la vérité historique matérielle, mais une nécessité dictée par l'architecture du texte (l'auteur double un personnage pour créer une symétrie interne avec d'autres paires, respectant ainsi la loi de la binarité).
+9. **L'énigme du centre :** Le centre est par définition énigmatique. Il s'agit très souvent d'un proverbe, d'une question, ou d'une parole obscure. L'identité d'un personnage qui y surgit, ou le sens d'un acte mentionné au centre, nécessite souvent de lire l'ensemble de la section ou du livre entier pour être résolu. Le centre force la réflexion et relance l'interprétation du lecteur.
 
 *Validation du Centre :* Appliquez la **Troisième Loi de Lund** : vérifiez si les idées, thèmes ou termes identiques présents au centre se retrouvent également aux deux extrémités du système, et nulle part ailleurs. Cela confirme avec force l'architecture.
 
@@ -37,6 +38,10 @@ Il faut relever :
 2. **La référence :** Renvoi clair à un événement ou un personnage connu ("Souvenez-vous de la femme de Lot").
 3. **La citation implicite :** Reprise d'une phrase ou d'un syntagme exact de l'Ancien Testament sans le signaler formellement.
 4. **L'allusion :** Écho thématique ou reprise de mots-clés épars qui rappellent un autre passage biblique.
-5. **Les Realia :** Contexte géographique, historique ou institutionnel (le Sabbat, le Temple, etc.) indispensable pour comprendre le texte.
+5. **Les Realia :** Contexte géographique, historique ou institutionnel (le Sabbat, le Temple, etc.) indispensable pour comprendre le texte, à ne pas confondre avec la pure lexicographie (définition des mots dans un dictionnaire). L'intertexte biblique cherche à lier des *textes* et des *situations*, non seulement des mots.
+
+**Règles de sélection de l'Intertexte :**
+- *Contemporanéité des textes :* Pour le lecteur biblique (et l'analyste rhétorique), il n'y a ni avant ni après dans la Bible. Tous les textes sont contemporains. On peut (et on doit) éclairer un passage de l'Ancien Testament par un passage du Nouveau Testament, ou vice-versa, sans se limiter à la critique des sources ou à la datation historique. De même, le recours à des textes extra-bibliques (rabbiniques, patristiques, ou Qumran) est encouragé s'il éclaire le sens.
+- *L'éclaircissage (Éviter le mauvais infini) :* Ne citez pas toutes les occurrences d'un mot. Semez largement, puis arrachez pour ne conserver que les deux ou trois textes ou échos intertextuels qui sont absolument décisifs pour *l'interprétation* de votre passage.
 
 *Action :* Identifiez systématiquement si le texte ou son centre contient des citations ou des allusions claires à d'autres passages bibliques, et nommez-les.

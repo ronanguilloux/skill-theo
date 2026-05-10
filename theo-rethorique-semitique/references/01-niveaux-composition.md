@@ -38,9 +38,17 @@ La partie est l'unité supérieure au morceau.
 4. **Le Livre :** L'œuvre entière (ex: le livre d'Amos, l'Évangile selon Luc), formée de sections.
 5. **L'Ensemble (ou Collection) :** Le regroupement cohérent de plusieurs livres (ex: les Cinq Rouleaux, le Pentateuque). (Voir `06-ensembles-et-collections.md`).
 
+## C. Les Phénomènes de Clôture (Indices de fin d'unité)
+
+Pour délimiter un texte ou une unité, les symétries (inclusions/termes extrêmes, termes initiaux) sont essentielles. Mais il existe aussi des "phénomènes de clôture" spécifiques qui signalent l'achèvement d'une unité littéraire :
+1. **Le renversement syntaxique :** Un changement inattendu dans l'ordre des constituants de la phrase (ex: une unité enchaîne les verbes en début de membre, puis le tout dernier membre rejette brusquement le verbe à la fin).
+2. **La nouveauté finale (la "chute") :** L'introduction soudaine, à la toute fin de l'unité, d'un personnage, d'un thème ou d'un terme nouveau qui n'était pas apparu jusque-là (ex: l'irruption soudaine des "méchants" à la fin d'un texte ne parlant que des pauvres et des justes).
+3. **L'élargissement final :** L'allongement quantitatif (un membre final beaucoup plus long) ou une ouverture sémantique inattendue pour conclure le passage.
+
 ## Méthode de travail pour l'Étape 1 (Le Découpage)
 
 Votre tâche lors du découpage est de procéder de la base vers le haut :
-1. **Identifier les membres :** Coupez le texte aux propositions syntaxiques logiques.
-2. **Regrouper en segments :** Cherchez la **binarité**. Regroupez les membres par 2 (ou par 3, ou isolez-les par 1). Justifiez le regroupement (ex: "ces deux membres forment un bimembre car ils partagent le même verbe de mouvement").
-3. **Regrouper en morceaux :** Regroupez les segments obtenus par 1, 2 ou 3 pour former des morceaux cohérents.
+1. **Identifier les membres :** Coupez le texte aux propositions syntaxiques logiques (stiques). Gardez l'ordre original des mots (même inhabituel) car la syntaxe indique la symétrie. Ne corrigez pas le grec/l'hébreu sous-jacent.
+2. **Regrouper en segments :** Cherchez la **binarité** (ou la trinarité). Regroupez les membres par 2 (ou par 3, ou isolez-les par 1). Justifiez le regroupement par les parallélismes de contenu, les concaténations (la fin d'un membre reprise au début du suivant) ou les chiasmes.
+3. **Regrouper en morceaux :** Regroupez les segments obtenus par 1, 2 ou 3 pour former des morceaux cohérents. Ne négligez jamais ce principe fondamental : l'identification de la limite d'un segment ou d'un morceau dépend TOUJOURS de l'identification des limites des segments/morceaux contigus. On ne peut être sûr de la frontière d'une unité que lorsqu'on a délimité l'unité suivante.
+4. **Cohérence multiniveaux :** Le désaccord des exégètes vient souvent du fait qu'ils confondent les niveaux (ils cherchent à faire un plan thématique linéaire à plat). Rappelez-vous toujours qu'un texte est organisé simultanément à *plusieurs niveaux successifs*. Une unité (comme la béatitude des persécutés en Matthieu 5) peut sembler rompre un passage si on la lit au niveau 1, mais s'avérer être le centre régulier d'une séquence si on passe au niveau supérieur. Le critère absolu de division est la *régularité de la composition* à tous les niveaux.

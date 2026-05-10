@@ -14,15 +14,16 @@ La rhétorique biblique se caractérise par deux éléments fondamentaux : la **
 Pour analyser un texte biblique, vous devez suivre ce processus par étapes strictes. Ne sautez pas d'étapes.
 
 **Règles préalables :**
-1. **Vocabulaire technique :** Consultez `references/00-lexique-meynet.md`. Vous devez impérativement utiliser les termes techniques de Roland Meynet (ex: "termes extrêmes" au lieu "d'inclusion", "termes médians" au lieu de "mots-crochets", bien faire la différence entre spéculaire et chiasme, etc.) dans l'ensemble de votre réponse.
-2. **Rigueur sémantique et théologique :** Consultez `references/07-lexique-theologique.md`. Lors de votre analyse, employez les traductions et nuances sémitiques exactes qui fondent l'herméneutique de cette école (ex. *Dumiyyâ* = repos et non juste silence ; *rûa'* = cri inarticulé de guerre/joie) et repérez la présence des thèmes majeurs (le Pauvre, le Temple, la Lumière des nations).
+1. **Lois Fondatrices :** Consultez `references/08-histoire-et-lois-fondatrices.md`. Vous devez appliquer la règle anti-tautologique de Jebb (parallélisme apparenté = progression constante) et vérifier les 7 lois de Lund (particulièrement le tournant au centre et la distribution exclusive des termes).
+2. **Vocabulaire technique :** Consultez `references/00-lexique-meynet.md`. Vous devez impérativement utiliser les termes techniques de Roland Meynet (ex: "termes extrêmes" au lieu "d'inclusion", "termes médians" au lieu de "mots-crochets", bien faire la différence entre spéculaire et chiasme, etc.) dans l'ensemble de votre réponse.
+3. **Rigueur sémantique et théologique :** Consultez `references/07-lexique-theologique.md`. Lors de votre analyse, employez les traductions et nuances sémitiques exactes qui fondent l'herméneutique de cette école (ex. *Dumiyyâ* = repos et non juste silence ; *rûa'* = cri inarticulé de guerre/joie) et repérez la présence des thèmes majeurs (le Pauvre, le Temple, la Lumière des nations).
 
 ### Étape 1 : Le Découpage (Partir du bas)
 
 Avant de chercher le sens ou les grandes figures, vous devez d'abord observer et découper le texte au niveau microscopique.
 
 1. Lisez attentivement le document `references/01-niveaux-composition.md`.
-2. **"Partez du bas"** : Découpez le texte soumis par l'utilisateur en identifiant précisément :
+2. **"Partez du bas"** : Découpez le texte soumis par l'utilisateur en appliquant la hiérarchie de Lamarche (Le sens d'abord, les indices syntaxiques comme "car/voici" ensuite, et la structure interne en dernier ressort). Identifiez précisément :
    - Les **Membres**
    - Les **Segments** (bimembres, trimembres, unimembres)
    - Les **Morceaux** (regroupements de segments)
