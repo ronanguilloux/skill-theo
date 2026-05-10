@@ -111,6 +111,31 @@ Le texte évangélique (comme Luc 15 avec les fils perdus) invite souvent le lec
 Lorsque l'on étudie les Evangiles (et particulièrement le Prologue de Jean ou les récits de miracle), le problème posé aux extrémités (ex: l'inadéquation entre Dieu et le monde, ou "Qui peut pardonner les péchés ?") trouve très souvent sa résolution au centre géométrique du texte à travers la thématique de la *Filiation divine*. 
 **Action :** Face à une antinomie apparente entre deux péricopes extrêmes, cherchez au centre la mention du Fils de l'Homme, du Fils Unique, ou la filiation accordée aux croyants (ex: Jean 1,12-13). C'est la filiation qui tient ensemble les deux termes de l'antinomie.
 
+## 20. Universalité de la rhétorique sémitique (Coran et Hadiths)
+*Principe : Les lois de la rhétorique sémitique transcendent les frontières bibliques.*
+La rhétorique sémitique n'est pas limitée aux textes judéo-chrétiens. Les mêmes principes de symétrie (parallélismes, chiasmes, structures concentriques) se retrouvent de manière exemplaire dans d'autres textes sémitiques anciens (ougaritiques, akkadiens) et surtout dans les textes de la tradition islamique (Coran et Hadiths).
+**Action :** Lors de l'analyse d'une sourate coranique (ex: Al-Fatiha, Al-Alaq), appliquez exactement la même rigueur formelle et les mêmes règles de composition que pour un texte biblique (repérage des segments, identification du centre charnière, etc.). La structure rhétorique coranique révèle souvent l'unité profonde de versets que la critique historique considérait à tort comme juxtaposés ou anachroniques.
+
+## 21. La dialectique de l'exégèse scientifique et spirituelle
+*Principe : L'exégèse scientifique (rhétorique) sert de socle à l'exégèse symbolique (spirituelle).*
+La lecture "allégorique" ou "symbolique" n'est pas rejetée par la rhétorique sémitique, à condition qu'elle soit rigoureusement fondée sur la lettre du texte. Les récurrences de mots qui paraissent "coïncidentes" pour la critique historique (ex: les "douze ans" de l'hémorroïsse et de la fille de Jaïre) doivent être prises très au sérieux. 
+**Action :** Lors de l'interprétation, cherchez l'unité thématique cachée derrière les répétitions lexicales et structurelles. Appuyez vos interprétations "spirituelles" sur des éléments formels objectifs démontrés aux étapes précédentes.
+
+## 22. Le Rîb (La controverse bilatérale prophétique)
+*Principe : L'apologétique biblique ne cherche pas à vaincre, mais à convaincre et à restaurer l'alliance.*
+Dans les lettres de Paul (comme Galates), le genre littéraire n'est pas le discours judiciaire gréco-romain (dont le but est de faire condamner l'adversaire), mais le *rîb* prophétique de l'Ancien Testament.
+**Action :** Ne lisez pas les remontrances bibliques comme des excommunications, mais comme des appels à la conversion pour restaurer la communion (*koinônia*). Le but de l'accusation est que l'autre sorte de sa situation injuste, non qu'il soit éliminé.
+
+## 23. La règle du Doublet et de l'Exhaustivité
+*Principe : La binarité englobe toutes les dimensions d'une réalité.*
+Les redoublements (hendiadys, mérismes, doublets) ne sont pas de simples redondances rhétoriques ou des "faiblesses" de style, mais des marqueurs de totalité. Lorsqu'un texte coordonne "ciel et terre", "petit et grand", ou redouble des verbes ("il répondit et il dit", "voir et entendre"), il cherche à exprimer l'exhaustivité absolue d'une réalité.
+**Action :** Lors de l'interprétation, ne considérez jamais deux termes coordonnés comme de simples synonymes interchangeables. Analysez le doublet comme l'expression de la totalité d'un champ d'action ou de l'espace (ex: la guérison totale, physique et spirituelle).
+
+## 24. L'Évangile comme Poésie
+*Principe : Les évangiles ne sont pas des textes en prose ou de simples "récits mal écrits".*
+Contrairement à la critique classique (qui jugeait la pauvreté lexicale des évangiles ou l'attribuant à une prose rudimentaire), la répétition lexicale et la construction concentrique révèlent une structure éminemment poétique. La rhétorique sémitique est une "poétique" de la répétition, du miroir et de l'écho.
+**Action :** Ne lisez pas un évangile (ou un autre texte biblique) comme un manuel d'histoire linéaire ou un code de lois abstrait. Interprétez-le comme un poème dont la forme architecturale (symétrie, rime sémantique) *est* le message. La forme donne le sens.
+
 ## Méthode de travail pour l'Étape 5 (L'Interprétation finale)
 À la toute fin de votre réponse :
 1. Produisez un court paragraphe d'interprétation pour expliquer le sens du texte.

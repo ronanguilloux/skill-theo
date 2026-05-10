@@ -45,6 +45,10 @@ Pour délimiter un texte ou une unité, les symétries (inclusions/termes extrê
 2. **La nouveauté finale (la "chute") :** L'introduction soudaine, à la toute fin de l'unité, d'un personnage, d'un thème ou d'un terme nouveau qui n'était pas apparu jusque-là (ex: l'irruption soudaine des "méchants" à la fin d'un texte ne parlant que des pauvres et des justes).
 3. **L'élargissement final :** L'allongement quantitatif (un membre final beaucoup plus long) ou une ouverture sémantique inattendue pour conclure le passage.
 
+## D. La Loi du Croisement au Centre
+
+Dans les compositions concentriques dont le centre est bipartite (formé de deux éléments), on observe fréquemment un **croisement** : la première moitié de l'unité centrale annonce l'unité qui va suivre, et la seconde moitié de l'unité centrale rappelle l'unité qui précédait. C'est un puissant marqueur de cohérence globale.
+
 ## Méthode de travail pour l'Étape 1 (Le Découpage)
 
 Votre tâche lors du découpage est de procéder de la base vers le haut :

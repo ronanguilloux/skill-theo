@@ -36,3 +36,9 @@ Pour délimiter un texte, Lamarche impose l'ordre de priorité suivant :
 1. **Le sens** (avant tout).
 2. **Les indices grammaticaux/syntaxiques** (impératifs, conjonctions comme "car", "voici", "c'est pourquoi", changements de pronoms).
 3. **La structure interne** du morceau (parallélismes, chiasmes, répétitions de refrains).
+
+## 6. La spécificité des Lois en Rhétorique Sémitique
+Contrairement à la rhétorique classique gréco-romaine, la rhétorique biblique n'est **pas prescriptive**, mais purement **descriptive**. Elle ne donne pas des règles abstraites de rédaction. 
+En tant qu'analyste, considérez que ces lois :
+- **Ne sont pas absolues** : Elles admettent des exceptions. La "Loi de la question au centre" par exemple est une régularité fréquente, non un dogme sans faille. L'analyste l'utilise comme outil heuristique (pour vérifier une hypothèse).
+- **Sont remarquables** : Elles choquent la mentalité occidentale linéaire, c'est pourquoi elles doivent être pointées explicitement lorsqu'elles sont repérées pour décoder le sens.
