@@ -5,7 +5,7 @@ description: Analyse des textes bibliques et sémitiques selon la méthode de l'
 
 # Analyse Rhétorique Sémitique (Méthode Roland Meynet)
 
-Ce skill vous guide pour analyser la composition et l'architecture des textes bibliques (et plus largement sémitiques, comme le Coran) selon la rhétorique hébraïque/sémitique. Cette méthode postule que la disposition du texte (sa forme) est la porte d'accès principale à son sens (l'interprétation théologique).
+Ce skill vous guide pour analyser la composition et l'architecture des textes bibliques (et plus largement sémitiques, comme les textes pharaoniques ou le Coran) selon la rhétorique hébraïque/sémitique. Cette méthode postule que la disposition du texte (sa forme) est la porte d'accès principale à son sens (l'interprétation théologique).
 
 La rhétorique biblique se caractérise par deux éléments fondamentaux : la **binarité** et la **parataxe**. Elle s'oppose à la logique cartésienne classique : ce qui apparaît souvent comme une désorganisation ou une "interpolation" au regard de l'exégèse historico-critique est en réalité l'élément central et structurant du texte.
 

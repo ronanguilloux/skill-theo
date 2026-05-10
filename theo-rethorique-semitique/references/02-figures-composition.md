@@ -24,6 +24,11 @@ Il existe deux grandes catégories de rapports qui lient les éléments entre eu
 
 Les rapports permettent de dégager la forme globale de l'unité textuelle. Meynet définit 4 figures majeures de symétrie totale.
 
+### Lois de Lund (Règles de symétrie)
+La rhétorique biblique repose sur les lois identifiées par N. W. Lund. Les deux plus importantes pour la composition sont :
+- **Troisième Loi de Lund :** Des idées ou termes identiques sont distribués de telle manière qu'ils apparaissent aux extrémités et au centre du système, et nulle part ailleurs. Cela verrouille l'architecture.
+- **Quatrième Loi de Lund :** Des correspondances croisées lient souvent le centre et les extrémités. Par exemple, la fin du passage central peut reprendre exactement la fin de la première partie.
+
 ### 1. La composition parallèle
 Les éléments de la seconde moitié se succèdent dans **le même ordre** que ceux de la première.
 - **Schémas fréquents :** A B / A' B' (ou A B C / A' B' C').
@@ -45,6 +50,7 @@ C'est une composition spéculaire construite autour d'un **centre unique** (qui 
 ### 4. La composition elliptique
 C'est une composition construite autour de **deux foyers** (comme une ellipse géométrique), plutôt qu'un centre unique. Cette figure a été formalisée plus récemment dans l'histoire de la discipline.
 - **Schémas fréquents :** A / x1 / B / x2 / A' (où les deux 'x' sont les foyers encadrant le plateau central B).
+- **Le Décentrement :** Les deux foyers sont rarement identiques ; il s'opère souvent un "décentrement" d'un foyer à l'autre (ex: passage du "Moi" au foyer 1 au "Toi" au foyer 2).
 - **Fonction théologique des foyers :** Les deux foyers fonctionnent souvent comme des ancrages dans le réel ou le présent. Ils créent une tension dynamique (par ex., le Foyer 1 exprime le désir de Dieu vers l'homme, le Foyer 2 le désir de l'homme vers Dieu). Ils viennent encadrer et rendre concret le "plateau central" (B) qui est souvent de nature utopique, céleste ou eschatologique.
 
 ### 5. L'Acrostiche alphabétique

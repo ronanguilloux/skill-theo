@@ -8,6 +8,7 @@ Pour générer cette réécriture en format Markdown, vous devez appliquer stric
 - **Un membre par ligne :** Chaque membre du texte doit occuper *une seule et unique ligne*.
 - Ne regroupez jamais plusieurs membres sur la même ligne (sauf règle exceptionnelle de "mise en facteur commun" pour de petits mots, mais en général : 1 membre = 1 ligne).
 - N'ajoutez aucun mot et n'en supprimez aucun. N'utilisez **jamais** de points de suspension `...`.
+- **Indépendance de la ponctuation :** La ponctuation des éditions modernes n'est pas "révélée" (les manuscrits anciens n'en avaient pas). N'hésitez pas à la remettre en cause ou à l'ignorer totalement si l'architecture formelle (les symétries ou un rythme régulier, ex: 3+3) impose un découpage syntaxique différent. La forme prime sur la ponctuation éditoriale (y compris celle du texte massorétique ou de Nestle-Aland).
 
 ## Règle 2 : Les Blocs, Segments et Morceaux
 - **Séparation des Segments :** Les segments sont séparés par **une ligne blanche** (un saut de ligne). Les membres d'un même segment sont liés et n'ont pas de ligne blanche entre eux.

@@ -24,7 +24,10 @@ Ces unités sont formées d'**une ou plusieurs** unités du niveau précédent (
 ### Niveau transversal
 - **VERSANT** : Ensemble textuel qui précède ou qui suit le centre d'une construction. Si le centre est bipartite, le versant correspond à chacune des deux moitiés de la construction. (Ex: dans `A B / x / B' A'`, le versant 1 est `A B` et le versant 2 est `B' A'`).
 
-## 2. Les rapports et figures de composition
+## 2. Termes de Tradition Rhétorique (Islam / Sémitique)
+- **Nazm** : Concept de la tradition rhétorique et théologique islamique désignant l'ordre, la composition ou l'agencement harmonieux du texte coranique. Ce terme est l'équivalent organique de la "rhétorique sémitique" dans le monde islamique.
+
+## 3. Les rapports et figures de composition
 
 ### Symétries totales
 - **CONSTRUCTION PARALLÈLE** : Les unités sont disposées de manière parallèle (`A B C / A' B' C'`). S'oppose à concentrisme.
